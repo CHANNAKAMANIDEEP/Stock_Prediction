@@ -1,2 +1,2 @@
 # Stock_Prediction
-Stock prediction using LSTM
+Stock prediction using LSTM of Apple Company
